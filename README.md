@@ -14,3 +14,7 @@ SPACE to start the game
 ## Note
 
 The game is not finished, that is, there is only one level available to play.
+
+## Screenshots
+
+![Play screen](https://raw.githubusercontent.com/AntonyFFC/arkanoid-game/main/gaa.jpg)
